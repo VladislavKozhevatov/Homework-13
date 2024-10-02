@@ -15,5 +15,6 @@ public class Main {
         System.out.println(book2.getDate());
         book2.setDate(1933);
         System.out.println(book2.getDate());
+        System.out.println();
     }
 }
